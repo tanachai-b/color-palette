@@ -7,11 +7,7 @@ const config: Config = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    fontFamily: {
-      default: ["__Inter_e66fe9", "__Noto_Sans_Thai_e8ac70"],
-      looped: ["__Inter_e66fe9", "__Noto_Sans_Thai_Looped_040fb1"],
-      handwriting: ["__Playpen_Sans_39ec5b", "__Mali_598f63"],
-    },
+    fontFamily: { default: ["__Inter_aaf875", "__Noto_Sans_Thai_a3b845"] },
     fontSize: {
       xs: ["12px", { lineHeight: "16px" }],
       sm: ["14px", { lineHeight: "20px" }],
